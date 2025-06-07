@@ -1,0 +1,11 @@
+com\referral\dto\ProfileUpdateRequest.class
+com\referral\service\UserService.class
+com\referral\repository\CounterRepository.class
+com\referral\dto\SignupRequest.class
+com\referral\controller\UserController.class
+com\referral\model\User.class
+com\referral\ReferralSystemApplication.class
+com\referral\service\UserService$ReferralReport.class
+com\referral\config\SecurityConfig.class
+com\referral\repository\UserRepository.class
+com\referral\model\Counter.class
